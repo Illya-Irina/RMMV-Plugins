@@ -6,8 +6,8 @@ this is my GitHub Repo where I post all my RPG Maker MV plugins that I wrote. Yo
 But I would be happy if you give me credit in your game if you are using my plugins.
 
 And, maybe you could send me a notification as soon as your game is plushied.
-
-
+<br>
+<br>
 Withot further ado, sincerely
 
 Illya_Sora

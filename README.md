@@ -8,6 +8,7 @@ But I would be happy if you give me credit in your game if you are using my plug
 And, maybe you could send me a notification as soon as your game is plushied.
 <br>
 <br>
+<br>
 Withot further ado, sincerely
 
 Illya_Sora
